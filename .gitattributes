@@ -1,12 +1,11 @@
 # Set default behavior for all text files
 * text=auto
-
 # Declare specific files or extensions that should always use LF
 *.sh text eol=lf
 *.py text eol=lf
-
 # Binary files - don't modify line endings
 *.png binary
 *.jpg binary
 *.exe binary
 *.dll binary
+pretrained_models/spkrec/embedding_model.ckpt filter=lfs diff=lfs merge=lfs -text
