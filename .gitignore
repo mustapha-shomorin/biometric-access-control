@@ -15,3 +15,15 @@ logs/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+
+venv310/
+.Python
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.env
+.env.*
+*.egg-info
+*.git/
