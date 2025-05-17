@@ -23,7 +23,7 @@ biometric_access_control/
 │   ├── final_biometric_app.py       # Main Streamlit app
 │   ├── audio_enrollment.py          # Voice embedding logic
 │   ├── video_enrollment.py          # Face embedding logic
-│   ├── utils.py                     # Shared helper functions (optional)
+│   ├── utils.py                     # Shared helper functions
 ├── data/
 │   ├── video/                       # Uploaded videos for face data
 │   ├── audio/                       # Uploaded audios for voice data
@@ -45,7 +45,7 @@ biometric_access_control/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/biometric_access_control.git
+git clone https://github.com/your-username/biometric-access-control.git
 cd biometric_access_control
 ```
 
@@ -73,9 +73,9 @@ streamlit run app/final_biometric_app.py
 ## 🧪 Admin Controls
 
 Admins can:
-- Load new user data (video/audio)
+- Load new user data (video/audio) (admin only)
 - Automatically run face & voice embedding generation
-- Delete all saved embeddings
+- Delete all saved embeddings (admin only)
 - View verification logs (admin only)
 
 ---
@@ -103,5 +103,5 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name].  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or explore more at [your-portfolio-link].
+Developed by Mustapha Shomorin.  
+Feel free to connect on (https://www.linkedin.com/in/mustaphashomorin) or explore more at (https://mustaphashomorin.wixsite.com/mustapha-shomorin).
