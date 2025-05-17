@@ -104,4 +104,4 @@ MIT License
 ## 🙋‍♂️ Author
 
 Developed by Mustapha Shomorin.  
-Feel free to connect on (https://www.linkedin.com/in/mustaphashomorin) or explore more at (https://mustaphashomorin.wixsite.com/mustapha-shomorin).
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mustaphashomorin) or explore more at [My Portfolio](https://mustaphashomorin.wixsite.com/mustapha-shomorin).
