@@ -22,8 +22,11 @@ biometric_access_control/
 ├── app/
 │   ├── final_biometric_app.py       # Main Streamlit app
 │   ├── audio_enrollment.py          # Voice embedding logic
+│   ├── biometric_functions.py       # Shared helper functions
 │   ├── video_enrollment.py          # Face embedding logic
-│   ├── utils.py                     # Shared helper functions
+│   ├── utils.py 
+├── demo/
+│   └── Demo.mkv                     # Demo
 ├── data/
 │   ├── video/                       # Uploaded videos for face data
 │   ├── audio/                       # Uploaded audios for voice data
